@@ -1,5 +1,5 @@
 # Ecommerce-Product-Price-Prediction-Engine
-Built an e-commerce product price prediction engine using Transformer embeddings, engineered catalog features, TF-IDF, LightGBM and stacking to estimate optimal product prices from titles, descriptions, pack size and unit data, trained with cross-validation and optimized using SMAPE.
+Built an e-commerce product price prediction engine using Transformer embeddings, engineered catalog features, TF-IDF, LightGBM and stacking to estimate optimal product prices from titles, descriptions, pack size and unit data, trained with cross-validation and optimized using SMAPE.This system achieved a provisional leaderboard rank of 1049 in the Smart Product Pricing Challenge 2025, evaluated on 75,000 unseen products using the SMAPE metric.
 
 A production-grade machine learning system that predicts the optimal price of e-commerce products using catalog text, pack size, and unit information. This project was built for the Smart Product Pricing Challenge 2025, where the task was to predict prices for 75,000 unseen products based only on their metadata.
 
