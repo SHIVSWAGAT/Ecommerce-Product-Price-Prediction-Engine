@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+lightgbm
+torch
+sentence-transformers
+transformers
+tqdm
+datasets
+Pillow
+opencv-python
+matplotlib
